@@ -21,7 +21,7 @@ This Flutter application is designed to facilitate appointment booking for a bar
 By leveraging Flutter and Firebase, we aim to deliver a seamless and feature-rich experience for both customers and barbers, streamlining the appointment booking process and enhancing customer satisfaction.
 
 ## Screenshots:
-![BookMe1](images/bookme1.png)
+![BookMe3](images/bookme3.png)
 ![BookMe2](images/bookme2.png)
 ![Home](images/379.jpg)
 
